@@ -1,0 +1,7 @@
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\csAssignment\csAssignment\bin\Debug\csAssignment.exe.config
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\csAssignment\csAssignment\bin\Debug\csAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\csAssignment\csAssignment\bin\Debug\csAssignment.pdb
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\csAssignment\csAssignment\obj\Debug\csAssignment.csproj.AssemblyReference.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\csAssignment\csAssignment\obj\Debug\csAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\csAssignment\csAssignment\obj\Debug\csAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\csAssignment\csAssignment\obj\Debug\csAssignment.pdb

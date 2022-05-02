@@ -1,0 +1,7 @@
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\mathChallenge\mathChallenge\bin\Debug\mathChallenge.exe.config
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\mathChallenge\mathChallenge\bin\Debug\mathChallenge.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\mathChallenge\mathChallenge\bin\Debug\mathChallenge.pdb
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\mathChallenge\mathChallenge\obj\Debug\mathChallenge.csproj.AssemblyReference.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\mathChallenge\mathChallenge\obj\Debug\mathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\mathChallenge\mathChallenge\obj\Debug\mathChallenge.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\mathChallenge\mathChallenge\obj\Debug\mathChallenge.pdb

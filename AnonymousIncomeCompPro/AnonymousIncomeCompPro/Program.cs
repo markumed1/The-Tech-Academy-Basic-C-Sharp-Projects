@@ -20,9 +20,11 @@ namespace AnonymousIncomeCompPro
             Console.WriteLine("hourly Rate?");
             //Use a double type variable to define numeric variables holding numbers with decimals
             double hourlyRate1 = Convert.ToDouble(Console.ReadLine());
+            //displays result of user's input
             Console.WriteLine("Your hourly rate is: " + hourlyRate1 + "\n");
 
             Console.WriteLine("hours worked per week?");
+            //Use convert class to support conversation to and from the database in this case for 'double'
             double weeklyHours1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Your weekly hours are: " + weeklyHours1 + "\n");
             

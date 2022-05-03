@@ -37,9 +37,10 @@ namespace AnonymousIncomeCompPro
             Console.WriteLine("hours worked per week?");
             double weeklyHours2 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Your weekly hours are: " + weeklyHours2 + "\n");
-
+            
             Console.WriteLine("Annual salary of Person 1");
             Console.WriteLine("Person 1: ");
+            //Math operation to determine Person's salary. Hourly rate times weekly hours times 52 weeks
             double annual_salary1 = hourlyRate1 * weeklyHours1 * 52;
             Console.WriteLine(annual_salary1);
 

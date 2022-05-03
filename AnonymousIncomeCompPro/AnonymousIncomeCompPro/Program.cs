@@ -8,7 +8,6 @@ namespace AnonymousIncomeCompPro
 {
     class Program
     {
-        public static int Annual_Salary { get; private set; }
 
         static void Main(string[] args)
         {

@@ -18,6 +18,7 @@ namespace AnonymousIncomeCompPro
 
             Console.WriteLine("Person 1");
             Console.WriteLine("hourly Rate?");
+            //Use a double type variable to define numeric variables holding numbers with decimals
             double hourlyRate1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Your hourly rate is: " + hourlyRate1 + "\n");
 

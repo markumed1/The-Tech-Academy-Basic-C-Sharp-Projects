@@ -10,10 +10,13 @@ namespace BooleanCarInsuranceAssignment
     {
         static void Main(string[] args)
         {
+            //Display quetion and age with console.writeline 
             Console.WriteLine("What is your age?");
+            // using int tp declare a var. 
             int yourAge = 32;
             Console.WriteLine(yourAge);
- 
+            
+            //use boolean method to display answer
             Console.WriteLine("Have you ever had a DUI?");
             bool gotDui = false;
             Console.WriteLine(gotDui);

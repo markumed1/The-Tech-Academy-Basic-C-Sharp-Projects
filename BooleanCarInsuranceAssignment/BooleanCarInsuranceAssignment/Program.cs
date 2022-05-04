@@ -23,11 +23,11 @@ namespace BooleanCarInsuranceAssignment
 
             Console.WriteLine("How many speeding tickets do you have?");
             int speedingTickets = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Your have " + speedingTickets + " ticket(s)" + "\n");
+            Console.WriteLine("You have " + speedingTickets + " ticket(s)" + "\n");
 
 
 
-            bool isQualified = (yourAge > 15) && (DUI == false) && (speedingTickets < 3);
+            bool isQualified = (yourAge > 15) && (DUI == false) && (speedingTickets <= 3);
             Console.WriteLine("Are you qualified? " + isQualified);
             //using boolean method, T or F?: are you older than 15, had any DUI's, and how many speeding do you have?
 

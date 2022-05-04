@@ -12,7 +12,6 @@ namespace BooleanCarInsuranceAssignment
         {
             //Display quetion and age with console.writeline 
             Console.WriteLine("What is your age?");
-
             int yourAge = Convert.ToInt32(Console.ReadLine()); 
             Console.WriteLine("You are " + yourAge + " years old" + "\n");
 
@@ -20,16 +19,6 @@ namespace BooleanCarInsuranceAssignment
             Console.WriteLine("Have you ever had a DUI? Type True or False");
             bool DUI = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine("You answered " + DUI + "\n");
-
-
-            // using int tp declare a var. 
-            int yourAge = 32;
-            Console.WriteLine(yourAge);
-            
-            //use boolean method to display answer
-            Console.WriteLine("Have you ever had a DUI?");
-            bool gotDui = false;
-            Console.WriteLine(gotDui);
             
 
             Console.WriteLine("How many speeding tickets do you have?");
@@ -39,8 +28,8 @@ namespace BooleanCarInsuranceAssignment
 
 
             bool isQualified = (yourAge > 15) && (DUI == false) && (speedingTickets < 3);
-            Console.WriteLine("Are you qualified?" + isQualified);
-
+            Console.WriteLine("Are you qualified? " + isQualified);
+            //using boolean method, T or F?: are you older than 15, had any DUI's, and how many speeding do you have?
 
 
 

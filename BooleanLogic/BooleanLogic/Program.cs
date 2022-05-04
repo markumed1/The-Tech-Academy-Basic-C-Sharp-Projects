@@ -16,7 +16,7 @@ namespace BooleanLogic
             //Console.WriteLine(true && true);
             //Console.WriteLine(false && false);
             //Console.WriteLine(true && true && true && false);
-            Console.WriteLine(true && true && true || false);
+            //Console.WriteLine(true && true && true || false);
 
 
             ////The OR operator

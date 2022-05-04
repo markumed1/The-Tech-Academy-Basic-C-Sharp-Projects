@@ -1,0 +1,7 @@
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceAssignment\BooleanCarInsuranceAssignment\bin\Debug\BooleanCarInsuranceAssignment.exe.config
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceAssignment\BooleanCarInsuranceAssignment\bin\Debug\BooleanCarInsuranceAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceAssignment\BooleanCarInsuranceAssignment\bin\Debug\BooleanCarInsuranceAssignment.pdb
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceAssignment\BooleanCarInsuranceAssignment\obj\Debug\BooleanCarInsuranceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceAssignment\BooleanCarInsuranceAssignment\obj\Debug\BooleanCarInsuranceAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceAssignment\BooleanCarInsuranceAssignment\obj\Debug\BooleanCarInsuranceAssignment.pdb
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceAssignment\BooleanCarInsuranceAssignment\obj\Debug\BooleanCarInsuranceAssignment.csproj.AssemblyReference.cache

@@ -11,23 +11,27 @@ namespace BooleanCarInsuranceAssignment
         static void Main(string[] args)
         {
             Console.WriteLine("What is your age?");
-            int yourAge = 32;
-            Console.WriteLine(yourAge);
- 
-            Console.WriteLine("Have you ever had a DUI?");
-            bool gotDui = false;
-            Console.WriteLine(gotDui);
-            
+            int yourAge = Convert.ToInt32(Console.ReadLine()); 
+            Console.WriteLine("You are " + yourAge + " years old" + "\n");
+
+
+            Console.WriteLine("Have you ever had a DUI? Type True or False");
+            bool DUI = Convert.ToBoolean(Console.ReadLine());
+            Console.WriteLine("You answered " + DUI + "\n");
+
 
             Console.WriteLine("How many speeding tickets do you have?");
-            int speedingTickets = 1;
-            Console.WriteLine(speedingTickets);
+            int speedingTickets = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Your have " + speedingTickets + " ticket(s)" + "\n");
 
-            Console.WriteLine("Qualified?");
-            bool qualified = true;
-            Console.WriteLine(qualified);
 
-       
+
+            bool isQualified = (yourAge > 15) && (DUI == false) && (speedingTickets < 3);
+            Console.WriteLine("Are you qualified?" + isQualified);
+
+
+
+
 
             Console.ReadLine();
         }

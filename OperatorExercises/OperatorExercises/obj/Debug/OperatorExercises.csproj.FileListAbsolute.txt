@@ -1,0 +1,7 @@
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorExercises\OperatorExercises\bin\Debug\OperatorExercises.exe.config
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorExercises\OperatorExercises\bin\Debug\OperatorExercises.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorExercises\OperatorExercises\bin\Debug\OperatorExercises.pdb
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorExercises\OperatorExercises\obj\Debug\OperatorExercises.csproj.AssemblyReference.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorExercises\OperatorExercises\obj\Debug\OperatorExercises.csproj.CoreCompileInputs.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorExercises\OperatorExercises\obj\Debug\OperatorExercises.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorExercises\OperatorExercises\obj\Debug\OperatorExercises.pdb

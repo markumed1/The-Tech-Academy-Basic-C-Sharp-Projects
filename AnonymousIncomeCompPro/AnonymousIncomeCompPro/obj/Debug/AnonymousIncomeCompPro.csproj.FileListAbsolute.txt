@@ -1,7 +1,0 @@
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeCompPro\AnonymousIncomeCompPro\bin\Debug\AnonymousIncomeCompPro.exe.config
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeCompPro\AnonymousIncomeCompPro\bin\Debug\AnonymousIncomeCompPro.exe
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeCompPro\AnonymousIncomeCompPro\bin\Debug\AnonymousIncomeCompPro.pdb
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeCompPro\AnonymousIncomeCompPro\obj\Debug\AnonymousIncomeCompPro.csproj.AssemblyReference.cache
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeCompPro\AnonymousIncomeCompPro\obj\Debug\AnonymousIncomeCompPro.csproj.CoreCompileInputs.cache
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeCompPro\AnonymousIncomeCompPro\obj\Debug\AnonymousIncomeCompPro.exe
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeCompPro\AnonymousIncomeCompPro\obj\Debug\AnonymousIncomeCompPro.pdb

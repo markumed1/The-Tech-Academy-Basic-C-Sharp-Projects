@@ -43,7 +43,7 @@ namespace BooleanComparisonAssignment
                         Console.WriteLine("Guess my favourite #?");
                         number = Convert.ToInt32(Console.ReadLine());
                         break;
-                    default:
+                    default: //this default will display messaged if user inputs other numbers other than the ones listed above.
                         Console.WriteLine("You  are wrong.");
                         Console.WriteLine("Guess my favourite #?");
                         number = Convert.ToInt32(Console.ReadLine());

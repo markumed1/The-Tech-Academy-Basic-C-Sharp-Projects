@@ -1,0 +1,7 @@
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanComparisonAssignment\BooleanComparisonAssignment\bin\Debug\BooleanComparisonAssignment.exe.config
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanComparisonAssignment\BooleanComparisonAssignment\bin\Debug\BooleanComparisonAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanComparisonAssignment\BooleanComparisonAssignment\bin\Debug\BooleanComparisonAssignment.pdb
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanComparisonAssignment\BooleanComparisonAssignment\obj\Debug\BooleanComparisonAssignment.csproj.AssemblyReference.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanComparisonAssignment\BooleanComparisonAssignment\obj\Debug\BooleanComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanComparisonAssignment\BooleanComparisonAssignment\obj\Debug\BooleanComparisonAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanComparisonAssignment\BooleanComparisonAssignment\obj\Debug\BooleanComparisonAssignment.pdb

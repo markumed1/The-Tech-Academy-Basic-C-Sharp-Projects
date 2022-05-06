@@ -53,7 +53,8 @@ namespace BooleanComparisonAssignment
                 }
 
             }
-            while (!isGuessed);
+            while (!isGuessed); //The do/while loop is a variant of the while loop.
+                                //This loop will execute the code block once, before checking if the condition is true, then it will repeat 
 
             Console.ReadLine();
 

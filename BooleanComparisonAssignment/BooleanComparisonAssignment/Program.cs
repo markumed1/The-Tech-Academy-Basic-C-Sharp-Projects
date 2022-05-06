@@ -63,11 +63,10 @@ namespace BooleanComparisonAssignment
             int x = 1;
             while (x <= 10) //condition. 
             {
-                Console.WriteLine(x); //everytime you hit enter number will increase by 1 until 10 and program ends.
+                Console.WriteLine(x); 
                 x++;
-
-                Console.ReadLine();
             }
+            Console.ReadLine(); //Will display numbers 1 thru 10 in console
 
 
 

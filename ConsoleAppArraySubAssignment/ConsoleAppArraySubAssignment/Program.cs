@@ -56,7 +56,7 @@ namespace ConsoleAppArraySubAssignment
             listChoice = Convert.ToInt32(Console.ReadLine());
 
             //if elese statment if user chooses number beyond range
-            if (listChoice < wordList.Count)
+            if (listChoice <= 3)
             {
                 Console.WriteLine(wordList[Convert.ToInt32(listChoice)]);
             }

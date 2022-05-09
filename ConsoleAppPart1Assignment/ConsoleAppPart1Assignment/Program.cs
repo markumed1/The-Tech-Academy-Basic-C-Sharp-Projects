@@ -11,13 +11,14 @@ namespace ConsoleAppPart1Assignment
         static void Main(string[] args)
         {
             //Declaring single dimensional array
-            string[] = Books = new string[5];
-            Books[0] = "The Art of Racing in The Rain";
-            Books[1] = "My Dog Tulip";
-            Books[2] = "A Big Little Life";
-            Books[3] = "Lulu Walks the Dog";
-            Books[4] = "White Fang";
-            Books[5] = "The Phantom Tollbooth";
+            string[] names = { "Keven", "Mark", "Miles", "Katrina" };
+
+            Console.WriteLine("User please input some text.");
+
+            //for(int m = 0; m < names.Length; m++)\
+
+            Console.ReadLine();
+         
         }
-    }
+    }   
 }

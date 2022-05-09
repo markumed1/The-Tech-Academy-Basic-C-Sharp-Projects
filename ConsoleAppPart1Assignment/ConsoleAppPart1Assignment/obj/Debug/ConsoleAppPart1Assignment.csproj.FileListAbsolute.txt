@@ -1,0 +1,7 @@
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPart1Assignment\ConsoleAppPart1Assignment\obj\Debug\ConsoleAppPart1Assignment.csproj.AssemblyReference.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPart1Assignment\ConsoleAppPart1Assignment\obj\Debug\ConsoleAppPart1Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPart1Assignment\ConsoleAppPart1Assignment\bin\Debug\ConsoleAppPart1Assignment.exe.config
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPart1Assignment\ConsoleAppPart1Assignment\bin\Debug\ConsoleAppPart1Assignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPart1Assignment\ConsoleAppPart1Assignment\bin\Debug\ConsoleAppPart1Assignment.pdb
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPart1Assignment\ConsoleAppPart1Assignment\obj\Debug\ConsoleAppPart1Assignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPart1Assignment\ConsoleAppPart1Assignment\obj\Debug\ConsoleAppPart1Assignment.pdb

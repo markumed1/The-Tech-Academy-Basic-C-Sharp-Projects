@@ -42,10 +42,6 @@ namespace ConsoleAppArraySubAssignment
 
 
 
-            //Create a list of strings.
-            //string[] str = new string[] { "Howzit", "braddah", "Mark", "shoots!" };
-
-            //int strChoice;
 
             int listChoice;
 

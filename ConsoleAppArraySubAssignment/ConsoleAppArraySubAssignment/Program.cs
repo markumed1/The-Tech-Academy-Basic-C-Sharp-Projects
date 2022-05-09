@@ -43,9 +43,11 @@ namespace ConsoleAppArraySubAssignment
 
 
             //Create a list of strings.
-            string[] str = new string[] { "Howzit", "braddah", "Mark", "shoots!" };
+            //string[] str = new string[] { "Howzit", "braddah", "Mark", "shoots!" };
 
-            int strChoice;
+            //int strChoice;
+
+            int listChoice;
 
             List<string> wordList = new List<string>(); //Storing strings in collection
             wordList.Add("Rajah");
@@ -55,12 +57,12 @@ namespace ConsoleAppArraySubAssignment
 
 
             Console.WriteLine("User please select item between 0 - 3"); //asking user to choose a number
-            strChoice = Convert.ToInt32(Console.ReadLine());
+            listChoice = Convert.ToInt32(Console.ReadLine());
 
-            //if elese statment if user chooses number beyong range
-            if (strChoice < str.Length)
+            //if elese statment if user chooses number beyond range
+            if (listChoice < wordList.Count)
             {
-                Console.WriteLine(str[Convert.ToInt32(strChoice)]);
+                Console.WriteLine(wordList[Convert.ToInt32(listChoice)]);
             }
             else
             {

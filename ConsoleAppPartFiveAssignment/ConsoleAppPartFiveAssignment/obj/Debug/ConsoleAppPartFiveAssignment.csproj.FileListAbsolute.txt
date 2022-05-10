@@ -1,0 +1,7 @@
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPartFiveAssignment\ConsoleAppPartFiveAssignment\bin\Debug\ConsoleAppPartFiveAssignment.exe.config
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPartFiveAssignment\ConsoleAppPartFiveAssignment\bin\Debug\ConsoleAppPartFiveAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPartFiveAssignment\ConsoleAppPartFiveAssignment\bin\Debug\ConsoleAppPartFiveAssignment.pdb
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPartFiveAssignment\ConsoleAppPartFiveAssignment\obj\Debug\ConsoleAppPartFiveAssignment.csproj.AssemblyReference.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPartFiveAssignment\ConsoleAppPartFiveAssignment\obj\Debug\ConsoleAppPartFiveAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPartFiveAssignment\ConsoleAppPartFiveAssignment\obj\Debug\ConsoleAppPartFiveAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppPartFiveAssignment\ConsoleAppPartFiveAssignment\obj\Debug\ConsoleAppPartFiveAssignment.pdb

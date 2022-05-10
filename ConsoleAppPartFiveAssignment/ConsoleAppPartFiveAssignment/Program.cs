@@ -10,16 +10,27 @@ namespace ConsoleAppPartFiveAssignment
     {
         static void Main(string[] args)
         {
-            List<int> list = new List<int>() { 3, 5, 2, 7, 7, 5, 6 };
+            List<string> values = new List<string>();
+            values.Add("one");
+            values.Add("two");
+            values.Add("three");
+            values.Add("two");
+            values.Add("four");
+
+
 
             Console.WriteLine("User, please select text to search in the list");
             string userSelect = Console.ReadLine();
 
-            if (true)
+            if (values.Contains(userSelect))
             {
-                for (int i = 0; i < list.Count; i++)
+                for (int i = 0; i < values.Count; i++)
                 {
-                    Console.WriteLine(i);
+                    if (userSelect == values[i])
+                    {
+                        Console.WriteLine(i);
+                    }
+
                 }
             }
             else

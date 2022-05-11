@@ -1,0 +1,2 @@
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.csproj.CoreCompileInputs.cache

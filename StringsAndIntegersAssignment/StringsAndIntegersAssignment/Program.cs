@@ -9,24 +9,39 @@ namespace StringsAndIntegersAssignment
     class Program
     {
         static void Main(string[] args)
-        {
-            //Create list of ints.
-            List<int> numberList = new List<int>() { 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 };
-
-            Console.WriteLine("user pick a number");
-            int userNumber = Convert.ToInt32(Console.ReadLine());
-            string userInput = Console.ReadLine();
-
-            if (userInput == "0")
+        { 
+            try
             {
-                for (int i = 0; i < numberList.Count; i++)
+                //Create list of ints.
+                List<int> numberList = new List<int>() { 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 };
+
+                Console.WriteLine("user pick a number");
+                int userNumber = Convert.ToInt32(Console.ReadLine());
+                string userInput = Console.ReadLine();
+
+                if (true)
                 {
-                    Console.WriteLine(numberList[i]);
-                    Console.WriteLine(" , ");
+                    for (int i = 0; i < numberList.Count; i++)
+                    {
+                        Console.WriteLine(numberList[i] + " divide by " + userInput + " equals ");
+
+                    }
                 }
             }
-        
-
+            catch (FormatException ex)
+            {
+                Console.WriteLine("Please type a whole number.");
+                return;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                Console.ReadLine();
+            }
+            Console.ReadLine();
         }
         
         

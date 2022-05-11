@@ -17,13 +17,13 @@ namespace StringsAndIntegersAssignment
 
                 Console.WriteLine("user pick a number");
                 int userNumber = Convert.ToInt32(Console.ReadLine());
-                string userInput = Console.ReadLine();
+                
 
                 if (true)
                 {
                     for (int i = 0; i < numberList.Count; i++)
                     {
-                        Console.WriteLine(numberList[i] + " divide by " + userInput + " equals ");
+                        Console.WriteLine(numberList[i] / userNumber);
 
                     }
                 }

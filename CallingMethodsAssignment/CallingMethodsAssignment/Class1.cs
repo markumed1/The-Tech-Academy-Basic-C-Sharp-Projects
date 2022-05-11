@@ -6,26 +6,25 @@ using System.Threading.Tasks;
 
 namespace CallingMethodsAssignment
 {
-    public class Operator
+    public class Class1
     {
         //Three Methods in Class1
-        public double GetAdd(int data)
+        public int GetAdd(int data)
         {
-            data = data + 4;
-            return GetSubtract(data);
+           return data + 4;
+            
         }
 
-        private double GetSubtract(double data)
+        public int GetSubtract(int data)
         {
-            data = data - 3;
-            return GetDivide(data);
+            return data - 3;
+            
         }
 
-        private double GetDivide(double data)   
+        public int GetDivide(int data)   
         {
             return data / 3;
         }
-        public int Data { get; set; }
     }
         
 }

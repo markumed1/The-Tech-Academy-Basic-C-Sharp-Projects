@@ -11,13 +11,16 @@ namespace CallingMethodsAssignment
     {
         static void Main(string[] args)
         {
+            Class1 operatorObject = new Class1();
             Console.WriteLine("User please pick a number to do math operations on.");
-            string line = Console.ReadLine();
+            int userinput = Convert.ToInt32(Console.ReadLine());
 
-            var operatorObject = new Operator();
-            var result = operatorObject.GetAdd(data);
+            
+          
 
-            Console.WriteLine(result);
+            Console.WriteLine(operatorObject.GetAdd(userinput));
+            Console.WriteLine(operatorObject.GetSubtract(userinput));
+            Console.WriteLine(operatorObject.GetDivide(userinput));
             Console.ReadLine();
         }
     }

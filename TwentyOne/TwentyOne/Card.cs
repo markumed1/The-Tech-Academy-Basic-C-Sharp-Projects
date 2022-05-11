@@ -18,5 +18,5 @@ namespace TwentyOne
         //a class with two properties.
         public string Suit { get; set; }
         public string Face { get; set; }
-    }
+    }   
 }

@@ -8,20 +8,28 @@ namespace MainMethodAssignment
 {
     public class Class1
     {
-        public int GetAdd(int data)
+        //Create class and method that takes in integer
+        public int GetAdd(int data)// <--Paramater in ()'s of method, method is 'GetAdd'
         {
-            return data + 10;
+            return data + 10; //return an integer
         }
 
-        public int GetSubtract(int data)
+        //Same method name 'GetAdd'. 
+        public int GetAdd(decimal data) //<---Parameter: (decimal data)
         {
-            return data - 6;
+            return Convert.ToInt32(data + 6.2m); //Convert using 'Convert.ToInt32' return to an integer.
 
         }
 
-        public int GetDivide(int data)
+        //Same method name.
+        public int GetAdd(string data) //<--Parameter: (string data). 
         {
-            return data / 9;
+            return Convert.ToInt32(data) / 6; // Using different math ops. Take a string and convert in to an integer.
         }
     }
+
+
+
+
 }
+

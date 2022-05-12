@@ -11,10 +11,16 @@ namespace MainMethodAssignment
         static public void Main(string[] args)
         {
             Class1 operatorObject = new Class1();
-            int GetAdd;
 
-            GetAdd = 10;
-            Console.WriteLine(GetAdd);
+            int numInt = 5;
+            decimal numDecimal = 2.5m;
+            string numString = "8";
+
+            Console.WriteLine(operatorObject.GetAdd(numInt));
+            Console.WriteLine(operatorObject.GetAdd(numDecimal));
+            Console.WriteLine(operatorObject.GetAdd(numString));
+
+
 
             Console.ReadLine();
         }

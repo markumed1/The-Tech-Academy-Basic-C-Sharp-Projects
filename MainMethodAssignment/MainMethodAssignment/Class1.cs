@@ -4,27 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CallingMethodsAssignment
+namespace MainMethodAssignment
 {
     public class Class1
     {
-        //Three Methods in Class1 with math operations.
         public int GetAdd(int data)
         {
-           return data + 4; //return an integer
-            
+            return data + 10;
         }
 
         public int GetSubtract(int data)
         {
-            return data - 3;
-            
+            return data - 6;
+
         }
 
-        public int GetDivide(int data)   
+        public int GetDivide(int data)
         {
-            return data / 3;
+            return data / 9;
         }
     }
-        
 }

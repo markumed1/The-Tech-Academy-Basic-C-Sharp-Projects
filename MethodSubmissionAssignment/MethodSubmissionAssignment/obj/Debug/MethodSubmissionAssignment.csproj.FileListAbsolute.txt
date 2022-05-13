@@ -5,3 +5,10 @@ C:\Users\Marku\source\repos\MethodSubmissionAssignment\MethodSubmissionAssignmen
 C:\Users\Marku\source\repos\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.pdb
 C:\Users\Marku\source\repos\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.exe
 C:\Users\Marku\source\repos\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.pdb
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.exe.config
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.pdb
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.pdb

@@ -12,23 +12,25 @@ namespace MethodSubmissionAssignment
         {
             //instantiate the class
             Method method = new Method(); 
-            Console.WriteLine("user, input two numbers, one at a time. You need not to enter anything for the second number.");
-
+            Console.WriteLine("user, input two numbers, one at a time for the first try. Then on the second try, only enter your first number and hit enter."); // run console twice
             int myNum1 = Convert.ToInt32(Console.ReadLine());
-            int myNum2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter second optional number"); //user enter's optional #
 
-           if (myNum1 == 0 )
+            try
             {
-                Console.WriteLine(method);
+                
+                int myNum2 = Convert.ToInt32(Console.ReadLine()); 
+                int result = Method.MathMethod(myNum1, myNum2); // adds up two numbers entered by user.
+                Console.WriteLine(result);
+
             }
-           else if (myNum2 == 0 )
+            catch //if user does not put in second number this catch will loop in default number from first try.
             {
-                Console.WriteLine(method);
+                int result = Method.MathMethod(myNum1);
+                Console.WriteLine(result);
             }
 
            
-            
-
 
             Console.ReadLine();
         }

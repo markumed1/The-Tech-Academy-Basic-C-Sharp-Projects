@@ -9,12 +9,12 @@ namespace MethodSubmissionAssignment
     class Method
     {
         //Created method 'MethodClass, two integers as pramaters in '()' w/ one of them being an optional parameter.
-        public void MathMethod(int num1, int num2 = 5)  
+        public static int MathMethod(int num1, int num2 = 5)  
         {
             
             {
                int result = num1 + num2;
-               Console.WriteLine(result);
+                return result;
             }
         }
     }

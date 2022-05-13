@@ -8,8 +8,9 @@ namespace TwentyOne
 {
     public class Deck
     {
-        public Deck()
+        public Deck() 
         {
+
             Cards = new List<Card>(); //Referring to the property of a class.
             //List string and new empty list 
             List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
@@ -33,5 +34,25 @@ namespace TwentyOne
             }
         }
         public List<Card> Cards { get; set; }
+
+        public void Shuffle(int times = 1)
+        {
+            for (int i = 0; i < times; i++)
+            {
+                //creating a temp list
+                List<Card> TempList = new List<Card>();
+                Random random = new Random();
+
+                //Create a while loop
+                while (Cards.Count > 0)
+                {
+                    int randomIndex = random.Next(0, Cards.Count);
+                    TempList.Add(Cards[randomIndex]);
+                    Cards.RemoveAt(randomIndex);
+                }
+                this.Cards = TempList;
+            }
+
+        }
     }
 }

@@ -12,7 +12,7 @@ namespace MethodSubmissionAssignment
         {
             //instantiate the class
             Method method = new Method(); 
-            Console.WriteLine("user, input two numbers, one at a time for the first try. Then on the second try, only enter your first number and hit enter."); // run console twice
+            Console.WriteLine("user, please enter a number."); // run console twice
             int myNum1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter second optional number"); //user enter's optional #
 

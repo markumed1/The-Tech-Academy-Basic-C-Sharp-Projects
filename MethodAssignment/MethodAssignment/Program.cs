@@ -10,10 +10,12 @@ namespace MethodAssignment
     {
         static void Main(string[] args)
         {
-            Program myProgram = new Program(); //instantiate
-            myProgram.mathMethod(2, 3);
-            myProgram.mathMethod(num: 10, num2: 5);
-           
+            var myProgram = new mathMethod(); //instantiate
+
+            //call the method in the class, passing two numbers, call the method in the class, specifying the parameters by name.
+            myProgram.MathNums(2, 3);  
+            myProgram.MathNums(num1: 10, num2: 5);
+
 
             Console.ReadLine();
         }

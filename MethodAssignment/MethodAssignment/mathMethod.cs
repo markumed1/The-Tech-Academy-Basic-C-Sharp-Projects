@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace MethodAssignment
 {
-        class MethodClass
+        class mathMethod
         {
             //Create void method
-            public void math(int num1, int num2)
+            public void MathNums(int num1, int num2)
             {
                 int result;
                 int result2;

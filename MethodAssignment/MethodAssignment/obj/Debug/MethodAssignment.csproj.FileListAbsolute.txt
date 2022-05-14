@@ -1,0 +1,7 @@
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\MethodAssignment.csproj.AssemblyReference.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\bin\Debug\MethodAssignment.exe.config
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\bin\Debug\MethodAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\bin\Debug\MethodAssignment.pdb
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\MethodAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAssignment\MethodAssignment\obj\Debug\MethodAssignment.pdb

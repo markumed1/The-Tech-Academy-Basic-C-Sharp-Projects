@@ -14,9 +14,14 @@ namespace MethodAssignment
                 int result;
                 int result2;
 
+            int total = num1 * 10;
+            Console.WriteLine(num2);
+
                 result = num1;
                 result2 = num2 + 2;
                 Console.WriteLine(result2);
+
+
             }
         }
 }

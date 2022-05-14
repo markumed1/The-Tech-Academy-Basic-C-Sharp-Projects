@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MethodClassSubmissionAssignment
+namespace MethodClassAssignment
 {
     class MethodClass
     {
@@ -12,13 +12,11 @@ namespace MethodClassSubmissionAssignment
         public void mathMethod (int num1, int num2)
         {
             int result;
-            int result2;
+            int result;
 
-            result = num1;
+            result = 1;
             result2 = num2 + 2;
-            Console.WriteLine(result2);
+            Console.WriteLine(result2)
         }
-
-       
     }
 }

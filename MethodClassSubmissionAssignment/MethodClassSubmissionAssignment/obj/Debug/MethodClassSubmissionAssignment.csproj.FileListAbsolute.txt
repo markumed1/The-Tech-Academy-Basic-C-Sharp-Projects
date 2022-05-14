@@ -1,7 +1,0 @@
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassSubmissionAssignment\MethodClassSubmissionAssignment\bin\Debug\MethodClassSubmissionAssignment.exe.config
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassSubmissionAssignment\MethodClassSubmissionAssignment\bin\Debug\MethodClassSubmissionAssignment.exe
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassSubmissionAssignment\MethodClassSubmissionAssignment\bin\Debug\MethodClassSubmissionAssignment.pdb
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassSubmissionAssignment\MethodClassSubmissionAssignment\obj\Debug\MethodClassSubmissionAssignment.csproj.AssemblyReference.cache
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassSubmissionAssignment\MethodClassSubmissionAssignment\obj\Debug\MethodClassSubmissionAssignment.csproj.CoreCompileInputs.cache
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassSubmissionAssignment\MethodClassSubmissionAssignment\obj\Debug\MethodClassSubmissionAssignment.exe
-C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassSubmissionAssignment\MethodClassSubmissionAssignment\obj\Debug\MethodClassSubmissionAssignment.pdb

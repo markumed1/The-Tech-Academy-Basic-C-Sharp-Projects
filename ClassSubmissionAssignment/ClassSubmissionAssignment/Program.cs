@@ -11,21 +11,13 @@ namespace ClassSubmissionAssignment
         static void Main(string[] args)
         {
             MathMethod mathMethod = new MathMethod();//Instantiate
-            Console.WriteLine("User enter a number.");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            int num2 = 5;
+            Console.WriteLine("User enter a number."); //display to user
+            int num1 = Convert.ToInt32(Console.ReadLine()); //display's user's number
+            int num2 = 2;
 
             Console.WriteLine(num1 / num2);
 
-            string numberAsString = "1640";
-
-            int number;
-            if (Int32.TryParse(numberAsString, out number))
-                Console.WriteLine($"Converted '{numberAsString}' to {number}");
-            else
-                Console.WriteLine($"Unable to convert '{numberAsString}'");
-            // The example displays the following output:
-            //       Converted '1640' to 1640
+            
 
             Console.ReadLine();
         }

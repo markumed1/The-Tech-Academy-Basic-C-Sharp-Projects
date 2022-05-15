@@ -8,6 +8,11 @@ namespace ClassSubmissionAssignment
 {
     class MathMethod
     {
+        static class info
+        {
+            public static string name;
+        }
+
         public void AddNumbers(int num1, int num2, out int result)
         {
             result = num1 + num2;

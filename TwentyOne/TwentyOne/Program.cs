@@ -11,7 +11,7 @@ namespace TwentyOne
         static void Main(string[] args)
         {
             //create an object (deck) method has to be part of a class.
-            Deck deck = new Deck(); 
+            Deck deck = new Deck();
             deck.Shuffle(3); //<--call this method shuffle
 
             foreach (Card card in deck.Cards)

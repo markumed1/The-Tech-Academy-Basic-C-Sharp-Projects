@@ -10,12 +10,12 @@ namespace AbstractClassSubmissionAssignment
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee() 
+            Employee employee = new Employee() //Instantaiate an Employee object.
             {
                 firstName = "Sample",
                 lastName = "Student"
             };
-            employee.SayName();
+            employee.SayName(); //Called the SayName() method on the object.
             Console.ReadLine();
         }
     }

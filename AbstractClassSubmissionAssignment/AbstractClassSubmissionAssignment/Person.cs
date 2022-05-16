@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace AbstractClassSubmissionAssignment
 {
+    // Created an abstact person
     public abstract class Person 
     {
-        public string firstName { get; set; } //properties
+        // Created two props
+        public string firstName { get; set; } 
         public string lastName { get; set; }
 
+        // created method
         public abstract void SayName();
         
         

@@ -8,14 +8,12 @@ namespace AbstractClassSubmissionAssignment
 {
     public class Employee : Person
     {
-        public string firstName = "Mark";
-
-
-        public void SayName()
+        public override void SayName()
         {
-            Employee employee = new Employee();
-        }
+            Console.WriteLine(firstName + " " + lastName);
+        } 
         
     }
+
 
 }

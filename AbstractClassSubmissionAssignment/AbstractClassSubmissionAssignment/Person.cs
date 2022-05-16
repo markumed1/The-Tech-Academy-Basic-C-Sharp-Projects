@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace AbstractClassSubmissionAssignment
 {
-    public abstract class Person
+    public abstract class Person 
     {
-        public string firstName { get; set; }
+        public string firstName { get; set; } //properties
         public string lastName { get; set; }
+
+        public abstract void SayName();
+        
+        
     }
     
 }

@@ -10,6 +10,8 @@ namespace AbstractClassSubmissionAssignment
     {
         static void Main(string[] args)
         {
+            IQuittable quittable = new Employee();
+
             Employee employee = new Employee() //Instantaiate an Employee object.
             {
                 firstName = "Sample",
@@ -19,4 +21,5 @@ namespace AbstractClassSubmissionAssignment
             Console.ReadLine();
         }
     }
+
 }

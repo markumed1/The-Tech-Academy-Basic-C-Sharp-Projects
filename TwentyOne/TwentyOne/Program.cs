@@ -10,8 +10,9 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            //Polymorphism, its the ability of a class to morph into it inheriting class
-            //to gain its advatantages.
+            //Polymorphism = Greek word that means to "have many forms"
+            //               Objects can be identified by more than one type
+            //               Ex. A Dog is also: Canine, Animal, Organism.
 
             TwentyOneGame game = new TwentyOneGame();
             game.Players = new List<string>() { "Mark", "Miles", "Keven" };

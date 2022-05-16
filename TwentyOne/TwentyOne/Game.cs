@@ -6,17 +6,21 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Game //<--Class
+    public abstract class Game //<--Class
     {
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers() //Doesn't return anything, just printing to the console.
+        public abstract void Play(); //every single class inherited had a method called "play".
+
+        //Doesn't return anything, just printing to the console.//
+        //virtaul method inside abstract class. Means that this method gets inherited, has the ability to override.
+        public virtual void ListPlayers() 
         {
             foreach (string player in Players)
             {
-                Console.WriteLine(Players);
+                Console.WriteLine(player);
             }
         }
     }

@@ -12,5 +12,15 @@ namespace MethodsObjectsSubmissionAssignment
         {
             get => ID;
         }
+
+        internal new void FirstName()
+        {
+            throw new NotImplementedException();
+        }
     }
+
+   
+
+    
+
 }

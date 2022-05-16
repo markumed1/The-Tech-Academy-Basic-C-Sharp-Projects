@@ -1,0 +1,7 @@
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.exe.config
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.pdb
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.exe
+C:\Users\Marku\OneDrive\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.pdb

@@ -13,12 +13,12 @@ namespace MethodsObjectsSubmissionAssignment
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public void SayName()
+        public void SayName() //Void method class
         {
             foreach (string name in Names)
             {
                 Console.WriteLine("Name: " + name);
             }
-        }
+        }   
     }
 }

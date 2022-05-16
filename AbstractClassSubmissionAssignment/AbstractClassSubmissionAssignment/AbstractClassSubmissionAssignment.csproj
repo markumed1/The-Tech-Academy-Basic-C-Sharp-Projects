@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FB9EB4F4-C855-4D7F-9B84-D6F7612656A1}</ProjectGuid>
+    <ProjectGuid>{AAFBA3EB-ACF2-49E1-BBD4-4CBA20B4E2A1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MethodsObjectsSubmissionAssignment</RootNamespace>
-    <AssemblyName>MethodsObjectsSubmissionAssignment</AssemblyName>
+    <RootNamespace>AbstractClassSubmissionAssignment</RootNamespace>
+    <AssemblyName>AbstractClassSubmissionAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

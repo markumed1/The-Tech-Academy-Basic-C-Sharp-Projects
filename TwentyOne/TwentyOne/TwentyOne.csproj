@@ -47,9 +47,11 @@
     <Compile Include="Dealer.cs" />
     <Compile Include="Deck.cs" />
     <Compile Include="Game.cs" />
+    <Compile Include="IWalkAway.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="retun.cs" />
     <Compile Include="TwentyOneGame.cs" />
   </ItemGroup>
   <ItemGroup>

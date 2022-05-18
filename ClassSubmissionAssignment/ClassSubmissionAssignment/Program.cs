@@ -15,9 +15,9 @@ namespace ClassSubmissionAssignment
             //int num1 = Convert.ToInt32(Console.ReadLine()); //display's user's number
             //int quotient = math.DivideNumbers(num1);
             //Console.WriteLine(quotient);
-            //Console.WriteLine(math.DivideNumbers(num1));
+            //Console.WriteLine(math.DivideNumbers(num1)); //displays answer of user's number and divided by 2.
 
-            int result = StaticMethod.Add(5, 10); //int var type 'result' = to class 'Static'
+            int result = StaticMethod.Add(5, 10); //int var type 'result' = to class 'StaticMethod'
             Console.WriteLine(result);
 
 

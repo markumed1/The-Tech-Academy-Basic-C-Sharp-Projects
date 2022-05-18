@@ -8,15 +8,11 @@ namespace MethodsObjectsSubmissionAssignment
 {
     public class Employee : Person //Derived class
     {
-       public int ID
+       public int ID //Property
         {
             get => ID;
         }
 
-        internal new void FirstName()
-        {
-            throw new NotImplementedException();
-        }
     }
 
    

@@ -15,10 +15,7 @@ namespace MethodsObjectsSubmissionAssignment
 
         public void SayName() //Void method class
         {
-            foreach (string name in Names)
-            {
-                Console.WriteLine("Name: " + name);
-            }
+            Console.WriteLine(FirstName + " " + LastName);
         }   
     }
 }

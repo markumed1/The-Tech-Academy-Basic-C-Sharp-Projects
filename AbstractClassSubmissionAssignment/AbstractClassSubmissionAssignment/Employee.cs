@@ -8,7 +8,7 @@ namespace AbstractClassSubmissionAssignment
 {
     public class Employee : Person, IQuittable //Inheritence from Person.cs class
     {
-        public object ID { get; private set; }
+        public int ID { get; set; }
 
         //Implement the SayName() method inside of the employee class
         public override void SayName()
@@ -29,7 +29,7 @@ namespace AbstractClassSubmissionAssignment
         }
         public static bool operator !=(Employee employee, Employee employee2)
         {
-            if (employee.ID == employee2.ID)
+            if (employee.ID != employee2.ID)
                 return true;
             else
                 return false;

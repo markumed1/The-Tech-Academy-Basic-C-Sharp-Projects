@@ -13,9 +13,9 @@ namespace ClassSubmissionAssignment
             MathMethod mathMethod = new MathMethod();//Instantiate
             Console.WriteLine("User enter a number."); //display to user
             int num1 = Convert.ToInt32(Console.ReadLine()); //display's user's number
-            int num2 = 2;
+            int mathmethod = 2; //calling method divided by 2
 
-            Console.WriteLine(num1 / num2);
+            Console.WriteLine(num1 / mathmethod); //answer displays on screen
 
             
 

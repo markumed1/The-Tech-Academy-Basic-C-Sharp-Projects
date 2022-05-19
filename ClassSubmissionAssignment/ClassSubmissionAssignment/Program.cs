@@ -23,12 +23,6 @@ namespace ClassSubmissionAssignment
             Console.WriteLine("Area of Rectangle is {0}\t", area);
             Console.WriteLine("Perimeter of Rectangle is {0}\t", perimeter);
 
-            //overloading method. Creating object
-            mathMethod math2 = new mathMethod();
-
-            int diff = math2.Subtract(10, 2, 1);
-            Console.WriteLine(diff);
-
             Console.ReadLine();
         }
         

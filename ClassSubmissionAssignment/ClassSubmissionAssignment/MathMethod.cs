@@ -29,7 +29,7 @@ namespace ClassSubmissionAssignment
         }
 
         //adding three int val.
-        public int Add(int a, int b, int c)
+        public int Add(int a, int b, int c) //adding three int val.
         {
             int sum = a + b + c;
             return sum;

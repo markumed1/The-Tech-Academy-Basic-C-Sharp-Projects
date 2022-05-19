@@ -22,7 +22,7 @@ namespace ClassSubmissionAssignment
 
         public class MethodOverloading
         {
-            public int Add(int a, int b, int c) //two int type parameters method
+            public int Add(int a, int b, int c) //three int type parameters method
             {
                 return a + b + c;
             }

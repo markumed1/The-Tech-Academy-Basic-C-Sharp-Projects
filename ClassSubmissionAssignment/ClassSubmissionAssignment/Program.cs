@@ -23,6 +23,15 @@ namespace ClassSubmissionAssignment
             Console.WriteLine("Area of Rectangle is {0}\t", area);
             Console.WriteLine("Perimeter of Rectangle is {0}\t", perimeter);
 
+
+            MethodOverloading math2 = new MethodOverloading();
+
+            int sum1 = math2.Add(20, 4);
+            Console.WriteLine(sum1);
+
+            int sum2 = math2.Add(20, 40, 60);
+            Console.WriteLine(sum2);
+
             Console.ReadLine();
         }
         

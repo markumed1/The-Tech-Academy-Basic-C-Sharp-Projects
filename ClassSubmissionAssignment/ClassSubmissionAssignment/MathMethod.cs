@@ -19,15 +19,21 @@ namespace ClassSubmissionAssignment
             area = len * width;
             permiter = 2 * (len + width);
         }
-
-        public class MethodOverloading
+    }
+    public class MethodOverloading
+    {
+        public int Add(int a, int b) //adding two int val.
         {
-            public int Add(int a, int b, int c) //three int type parameters method
-            {
-                return a + b + c;
-            }
+            int sum = a + b;
+            return sum;
         }
 
-    }
+        //adding three int val.
+        public int Add(int a, int b, int c)
+        {
+            int sum = a + b + c;
+            return sum;
 
-}
+        }
+    }
+{

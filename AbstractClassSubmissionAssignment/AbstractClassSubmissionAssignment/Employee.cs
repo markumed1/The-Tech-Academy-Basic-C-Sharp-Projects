@@ -17,7 +17,8 @@ namespace AbstractClassSubmissionAssignment
         } 
         public void Quit()
         {
-
+            Console.WriteLine("I quit");
+            
         }
         // "bool" is what method returns, it returns a bool(boolean), keyword for "True or False".
         public static bool operator ==(Employee employee, Employee employee2)
@@ -33,10 +34,12 @@ namespace AbstractClassSubmissionAssignment
                 return true;
             else
                 return false;
+
+
         }
 
 
-    }
+}
 
 
 }

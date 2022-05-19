@@ -6,20 +6,14 @@ using System.Threading.Tasks;
 
 namespace ClassSubmissionAssignment
 {
-    class MathMethod
+    public class mathMethod //created a class
     {
-        public void DivideNumbers(int num1, int num2)
-        {
-            int a = num1;
-            int b = num2;
-            Console.WriteLine(a / b);
-        }
-            
-
-
-
-
-
+        //public int DivideNumbers(int num1)
+        //{
+        //int num2 = num1 / 2;
+        //    return num2;
+        //}
+        
 
 
 

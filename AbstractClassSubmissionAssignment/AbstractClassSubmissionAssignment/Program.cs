@@ -20,6 +20,8 @@ namespace AbstractClassSubmissionAssignment
             };
             employee.SayName(); //Called the SayName() method on the object.
 
+            employee.Quit();
+
 
             Console.ReadLine();
         }

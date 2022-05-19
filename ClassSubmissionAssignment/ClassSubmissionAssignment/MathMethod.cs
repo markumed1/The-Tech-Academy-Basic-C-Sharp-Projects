@@ -8,35 +8,24 @@ namespace ClassSubmissionAssignment
 {
     public class mathMethod //created a class
     {
-        //public int DivideNumbers(int num1)
-        //{
-        //int num2 = num1 / 2;
-        //    return num2;
-        //}
-        
-
-
-
-        //static class info
-        //{
-        //    public static string name;
-        //}
-
-        //public void AddNumbers(int num1, int num2, out int result)
-        //{
-        //    result = num1 + num2;
-        //}
-        //public void AddNumbers()
-        //{
-
-        //    int num1 = 5;
-        //    int num2 = 3;
-        //    int result;
-        //    AddNumbers(5, 3, out result);
-
-        //    Console.WriteLine(result);
-
-            //Console.ReadLine();
+        //Created a void method, outputs an int.
+        public void DivideByTwo(int num1)
+        {
+            Console.WriteLine(num1 / 2); //method divide data that will be passed by two
         }
+
+        public static void Rect(int len, int width, out int area, out int permiter)
+        {
+            area = len * width;
+            permiter = 2 * (len + width);
+        }
+
+        public int Subtract(int a, int b, int c)
+        {
+            int diff = a - b - c;
+            return diff;
+        }
+
     }
+
 }

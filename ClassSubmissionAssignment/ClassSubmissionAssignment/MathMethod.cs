@@ -20,10 +20,12 @@ namespace ClassSubmissionAssignment
             permiter = 2 * (len + width);
         }
 
-        public int Subtract(int a, int b, int c)
+        public class MethodOverloading
         {
-            int diff = a - b - c;
-            return diff;
+            public int Add(int a, int b, int c) //two int type parameters method
+            {
+                return a + b + c;
+            }
         }
 
     }
